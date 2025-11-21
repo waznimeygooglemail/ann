@@ -1,2 +1,8 @@
 flask
 requests
+python-telegram-bot 
+aiohttp
+motor 
+pymongo
+python-dotenv
+nest-asyncio
